@@ -1,2 +1,2 @@
-# to-do-app-fluttert
+# to-do-app-flutter
 flutter to do app 
